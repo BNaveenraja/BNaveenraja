@@ -66,7 +66,7 @@ Group project for faculty to manage student attendance digitally.
 ---
 
 ## 🧠 Problem Solving
-- 🔥 **150+ LeetCode problems solved**
+- 🔥 **100+ LeetCode problems solved**
 - Strong in:
   - Arrays
   - Strings

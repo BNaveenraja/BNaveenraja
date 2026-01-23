@@ -85,5 +85,5 @@ Group project for faculty to manage student attendance digitally.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://linkedin.com/in/naveenraja-b](https://www.linkedin.com/in/naveenraja-balaraman)
+- LinkedIn: [[https://linkedin.com/in/naveenraja-b](https://www.linkedin.com/in/naveenraja-balaraman)](https://www.linkedin.com/in/naveenraja-balaraman-7583ba379/)
 - Email: naveenraja0610@gmail.com

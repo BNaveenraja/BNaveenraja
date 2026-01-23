@@ -11,7 +11,7 @@ I enjoy building **scalable applications**, writing **clean code**, and solving 
 - 🎓 B.E. Computer Science & Engineering (CGPA: 7.78)
 - 💼 Software Developer Engineer (Intern) @ UST Global Technologies
 - 💼 Software Developer Engineer Trainee @ UST Global Technologies
-- 🧠 Solved **150+ problems on LeetCode**
+- 🧠 Solved **100+ problems on LeetCode**
 - 🌱 Currently improving system design & backend architecture
 
 ---
@@ -46,7 +46,7 @@ I enjoy building **scalable applications**, writing **clean code**, and solving 
 ### 🌱 Carbon Persona – Full Stack Application
 A web application to calculate individual carbon footprints and promote sustainable living.
 
-**Tech:** Java, Spring Boot, Angular  
+**Tech:** ASp.NET, Entity Frameword Angular  
 - User-friendly UI
 - Actionable insights for reducing environmental impact
 
@@ -85,5 +85,5 @@ Group project for faculty to manage student attendance digitally.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/naveenraja-b
+- LinkedIn: [https://linkedin.com/in/naveenraja-b](https://www.linkedin.com/in/naveenraja-balaraman)
 - Email: naveenraja0610@gmail.com

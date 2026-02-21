@@ -1,5 +1,5 @@
 # 🌌 Naveenraja Balaraman
-### <p align="center"> � Full-Stack .NET Developer | Angular & Web API Enthusiast | Clean Code Advocate </p>
+### <p align="center"> 🚀 Full-Stack .NET Developer | Angular & Web API Enthusiast | Clean Code Advocate </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=NAVEEENRAJA%20B&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -7,18 +7,38 @@
 
 ---
 
-### � Developer Profile
+### 💻 Developer Profile
 ```json
 {
-  "role": "Full-Stack .NET Developer",
-  "experience": "1+ Year Professional Experience",
-  "focus": ["Scalable REST APIs", "Modern SPA Development", "Responsive UI/UX"],
-  "stack": {
-    "backend": [".NET Core", "C#", "ASP.NET Web API"],
-    "frontend": ["Angular", "TypeScript", "TailwindCSS"],
-    "database": ["MS SQL Server", "MySQL"]
+  "basics": {
+    "name": "Naveenraja Balaraman",
+    "role": "Full-Stack .NET Developer",
+    "experience": "1+ Year Professional Journey",
+    "location": "Coimbatore, India"
   },
-  "current_location": "Coimbatore, India"
+  "professional_history": [
+    {
+      "company": "Park Corporates",
+      "role": "Software Engineer",
+      "focus": "Enterprise .NET Solutions"
+    },
+    {
+      "company": "UST Global Technologies",
+      "role": "SDE Intern / Trainee",
+      "tenure": "Nov 2024 - May 2025"
+    }
+  ],
+  "engineering_stats": {
+    "algorithms": "100+ LeetCode problems solved",
+    "education": "B.E. Computer Science (CGPA: 7.78)",
+    "certifications": "5+ Professional Industry Badges"
+  },
+  "specializations": {
+    "backend": [".NET Core", "C#", "ASP.NET Web API", "Spring Boot"],
+    "frontend": ["Angular", "TypeScript", "TailwindCSS"],
+    "databases": ["MS SQL Server", "MySQL"]
+  },
+  "current_focus": "System Design, Backend Architecture, and Cloud Scalability"
 }
 ```
 
@@ -62,7 +82,7 @@
 
 ---
 
-### 📊 Development Analytics
+### 📊 Performance Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BNaveenraja&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="Analytics" width="48%" />
@@ -75,20 +95,24 @@
 
 ---
 
-### 🔥 Active Progress
+### 🔥 Featured Work & Activity
 
-- 💼 **Professional Journey**: Full-Stack Software Engineer at **Park Corporates**.
-- 🏆 **Achievements**: 100+ LeetCode problems solved & Multiple Coding Championship Awards.
-- 📜 **Proof of Skill**: 5+ Professional Certifications across .NET & Frontend Technologies.
-- 🌱 **Growth Path**: Currently exploring Cloud Deployment strategies and Microservices.
+#### 🏗️ [Portfolio Project](https://bnaveenraja.github.io/portfolio/)
+Enterprise-style personal brand platform. Architected with **Angular**, **TailwindCSS**, and **TypeScript**.
+
+#### 🥇 Achievements
+- 🏆 **1st Prize**: Professional Coding Competition (UST Global)
+- 📊 **2nd Prize**: Datathon Performance Award
+- 🧠 **100+ LeetCode**: Strong foundation in Data Structures & Algorithms
 
 ---
 
-### ⚡ Technical Links
+### ⚡ System Access
 
 <p align="left">
 <a href="https://bnaveenraja.github.io/portfolio/"><img src="https://img.shields.io/badge/-Full_Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/naveenraja-balaraman-7583ba379/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/naveenraja0610"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:naveenraja0610@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
